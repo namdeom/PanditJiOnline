@@ -1,0 +1,9 @@
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\bin\Debug\netcoreapp1.0\AngularWithCore.deps.json
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\bin\Debug\netcoreapp1.0\AngularWithCore.runtimeconfig.json
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\bin\Debug\netcoreapp1.0\AngularWithCore.runtimeconfig.dev.json
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\bin\Debug\netcoreapp1.0\AngularWithCore.dll
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\bin\Debug\netcoreapp1.0\AngularWithCore.pdb
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\obj\Debug\netcoreapp1.0\AngularWithCore.AssemblyInfo.cs
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\obj\Debug\netcoreapp1.0\AngularWithCore.dll
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\obj\Debug\netcoreapp1.0\AngularWithCore.pdb
+C:\Users\manmo\Documents\Project\SelfProject\AngularWithCore\obj\Debug\netcoreapp1.0\AngularWithCore.csprojResolveAssemblyReference.cache
